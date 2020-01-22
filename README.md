@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can easily access the website in url: https://react-store.jacky308082.now.sh/. Thank you so such! Please enjoy!
+
 ## Available Scripts
 
 In the project directory, you can run:
